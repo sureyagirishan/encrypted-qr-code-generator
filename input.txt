@@ -1,0 +1,4 @@
+This is confidential sample text for testing purposes.
+API Key: sk-test-12345abcde
+Password: MySecurePassword123!
+Credit Card: 1234-5678-9012-3456
